@@ -1,0 +1,9 @@
+ Data Project 1 - Grupo 3 - EDEM MDA 2022/23
+
+* Iván Rodríguez
+* María Sancho
+* Antonio Vila
+* Víctor Ruiz
+* Javier Figueroa
+
+https://github.com/vruizext/mda-data-project-1
